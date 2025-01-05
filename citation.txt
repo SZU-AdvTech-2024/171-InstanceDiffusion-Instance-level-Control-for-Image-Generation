@@ -1,0 +1,8 @@
+@misc{REPO171,
+    author = "Wang, Xudong and Darrell, Trevor and Rambhatla, Sai Saketh and Girdhar, Rohit and Misra, Ishan",
+    archiveprefix = "arXiv",
+    eprint = "2402.03290",
+    primaryclass = "cs.CV",
+    title = "{InstanceDiffusion: Instance-level Control for Image Generation}",
+    year = "2024"
+}
